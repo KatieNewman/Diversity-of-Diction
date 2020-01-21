@@ -1,4 +1,5 @@
-# Diversity-of-Diction
+<img width="525" alt="Diversity of Diction" src="https://user-images.githubusercontent.com/46386265/72845744-4716cd80-3c6d-11ea-8521-c307364de378.PNG">
+
 A project using Natural Language Processing to Analyze Mediums of Creative Writing
 
 
