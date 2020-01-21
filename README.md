@@ -78,3 +78,4 @@ Each circle size corresponds to the frequency of a words usage in a work. Please
 
 Below is a collapsible tree which shows the most frequently used words per writer per work.
 
+![collapsible-tree](https://user-images.githubusercontent.com/46386265/72837485-8be63880-3c5c-11ea-99d6-67870ca9e0e9.png)
