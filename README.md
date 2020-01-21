@@ -1,7 +1,4 @@
-<img width="675" alt="Diversity of Diction" src="https://user-images.githubusercontent.com/46386265/72845744-4716cd80-3c6d-11ea-8521-c307364de378.PNG">
-
-A project using Natural Language Processing to Analyze Mediums of Creative Writing
-
+<img width="462" alt="DiversityofDiction" src="https://user-images.githubusercontent.com/46386265/72846560-d1136600-3c6e-11ea-8cb3-dd0196dff19a.PNG">
 
 # Tools
 
