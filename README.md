@@ -1,4 +1,4 @@
-<img width="750" alt="DiversityofDiction" src="https://user-images.githubusercontent.com/46386265/72846560-d1136600-3c6e-11ea-8cb3-dd0196dff19a.PNG">
+<img width="675" alt="DiversityofDiction" src="https://user-images.githubusercontent.com/46386265/72846560-d1136600-3c6e-11ea-8cb3-dd0196dff19a.PNG">
 
 # Tools
 
