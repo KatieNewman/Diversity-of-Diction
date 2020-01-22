@@ -58,6 +58,7 @@ Once we had the necessary text, we had to clean it before we could preform any a
 # Analysis
 Using Python, pandas, and ObservableHQ, we were able to create visualizations to display the answers to our questions.
 
+
   1. Which form of creative writing appears to have the broadest vocabulary?
 
 We calculated the ratio of unique words out of the total words used for each work, then used this to make comparisons across both works and groups of works. We chose to use this ratio as a method of normalization prior to comparison because we expected and verified that the word count of journalists' articles was far greater than that of the other groups. We obtained the following scores for percentage of unique words out of total words used:
@@ -65,6 +66,7 @@ We calculated the ratio of unique words out of the total words used for each wor
 Journalists: approx. 42.966%
 Poets: approx. 33.086%
 Songwriters: approx. 21.687%
+
 
   2. What are the most commonly used words among creative writing groups? Authors?
   
