@@ -52,7 +52,7 @@ Three mediums of creative writing were analyzed: song lyrics, poems, and journal
 # Cleaning the Data
 Once we had the necessary text, we had to clean it before we could preform any analysis. This included converting all text to lowercase (to ensure all words were counted as the same word, regardless of capitalization) and removing stop words (commonly used words that are considered useless). The words remaining after the cleaning process were counted for frequency of use per work, which we then converted into a csv file and a sqlite database. 
 
-<img width="698" alt="text to csv" src="https://user-images.githubusercontent.com/46386265/72860358-8efd1b00-3c94-11ea-9b80-b7e3ce6503e6.PNG">
+<img width="798" alt="text to csv" src="https://user-images.githubusercontent.com/46386265/72860358-8efd1b00-3c94-11ea-9b80-b7e3ce6503e6.PNG">
 
 
 # Analysis
