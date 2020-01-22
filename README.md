@@ -46,9 +46,9 @@ https://www.nytimes.com\
 
 
 # Data
-Three mediums of creative writing were analyzed: song lyrics, poems, and journal articles. Five well-known works for five top artists were selected for analysis. A process of "web scrapping" was used to obtain the words for each of the 75 works. Tools like Beautiful Soup, Python, Urllib, and Requests were used to parse the HTML of the websites containing the works. This gave us a vast amount of text for us to clean.
+Three mediums of creative writing were analyzed: song lyrics, poems, and journal articles. Five well-known works for five top artists were selected for analysis. A process of "web scrapping" was used to obtain the words for each of the 75 works. Tools like Beautiful Soup, Python, Urllib, and Requests were used to parse the HTML of the websites containing the works. This gave us a vast amount of text to clean.
 
-
+<img width="291" alt="webscraping" src="https://user-images.githubusercontent.com/46386265/72859662-a509dc00-3c92-11ea-84cc-14b35a7bef7f.PNG">
 
 # Cleaning the Data
 Once we had the necessary text, we had to clean it before we could preform any analysis. This included converting all text to lowercase (to ensure all words were counted as the same word, regardless of capitalization) and removing stop words (commonly used words that are considered useless). The words remaining after the cleaning process were counted for frequency of use per work, which we then converted into a csv file and a sqlite database. 
