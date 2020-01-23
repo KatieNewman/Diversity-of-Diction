@@ -90,5 +90,5 @@ Below is a collapsible tree which shows the most frequently used words per write
 
 Journalists had the widest vocaublary among the three creative writing mediums, using over 300 words per text on average. The top word used in all three areas was 'said.'
 
-<img width="697" alt="top word used" src="https://user-images.githubusercontent.com/46386265/72953478-42ccdc00-3d63-11ea-9896-909ef4db74bc.PNG">
+<img width="750" alt="top word used" src="https://user-images.githubusercontent.com/46386265/72953478-42ccdc00-3d63-11ea-9896-909ef4db74bc.PNG">
 
