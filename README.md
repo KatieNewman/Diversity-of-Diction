@@ -3,11 +3,8 @@
 # Tools
 
 Python3
-
 BeautifulSoup from bs4
-
 requests
-
 os
 
 pandas
@@ -36,8 +33,11 @@ ObservableHQ
 Sites (examples):
 
 https://www.genius.com\
+
 http://www.famouspoetsandpoems.com\
+
 https://www.theguardian.com\
+
 https://www.nytimes.com\
 
 
