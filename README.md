@@ -72,7 +72,7 @@ Songwriters: approx. 21.687%
   
 We created a bubble chart to visually show which words were most frequently used across all works.
 
-
+<img width="569" alt="new bubble chart" src="https://user-images.githubusercontent.com/46386265/72952912-57a87000-3d61-11ea-9cdf-1a8a0a0b78a7.PNG">
   
 Blue = journal articles
 
