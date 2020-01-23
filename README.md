@@ -74,6 +74,12 @@ We created a bubble chart to visually show which words were most frequently used
 
 ![bubble-chart](https://user-images.githubusercontent.com/46386265/72837270-3742bd80-3c5c-11ea-8253-9ecc9f1ad547.png)
   
+Blue = journal articles
+
+Green = poems
+
+Orange = song lyrics
+
 Each circle size corresponds to the frequency of a words usage in a work. Please note, that words may appear more than once as each bubble shown only represents one word per work.
 
 Below is a collapsible tree which shows the most frequently used words per writer per work.
