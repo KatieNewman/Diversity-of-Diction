@@ -36,11 +36,8 @@ ObservableHQ
 Sites (examples):
 
 https://www.genius.com\
-
 http://www.famouspoetsandpoems.com\
-
 https://www.theguardian.com\
-
 https://www.nytimes.com\
 
 
