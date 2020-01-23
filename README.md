@@ -72,7 +72,7 @@ Songwriters: approx. 21.687%
   
 We created a bubble chart to visually show which words were most frequently used across all works.
 
-![bubble-chart](https://user-images.githubusercontent.com/46386265/72837270-3742bd80-3c5c-11ea-8253-9ecc9f1ad547.png)
+
   
 Blue = journal articles
 
@@ -86,3 +86,6 @@ Below is a collapsible tree which shows the most frequently used words per write
 
 ![collapsible-tree](https://user-images.githubusercontent.com/46386265/72837485-8be63880-3c5c-11ea-99d6-67870ca9e0e9.png)
 
+# In Conclusion
+
+Journalists had the widest vocaublary among the three creative writing medium, using over 300 words per text on average.  
