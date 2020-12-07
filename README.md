@@ -1,48 +1,5 @@
 <img width="695" alt="DiversityofDiction" src="https://user-images.githubusercontent.com/46386265/72846560-d1136600-3c6e-11ea-8cb3-dd0196dff19a.PNG">
 
-# Tools
-
-Python3
-
-BeautifulSoup from bs4
-
-requests
-
-os
-
-pandas
-
-pymongo
-
-urlopen from urllib.request
-
-re
-
-numpy
-
-nltk
-
-sqlite3
-
-create_engine from sqlalchemy
-
-Plotly.js
-
-Flask
-
-ObservableHQ
-
-
-Sites (examples):
-
-https://www.genius.com\
-
-http://www.famouspoetsandpoems.com\
-
-https://www.theguardian.com\
-
-https://www.nytimes.com\
-
 
 
 # Data
