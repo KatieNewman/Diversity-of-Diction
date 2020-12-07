@@ -2,6 +2,7 @@
 
 
 
+
 # Data
 Three mediums of creative writing were analyzed: song lyrics, poems, and journal articles. Five well-known works for five top artists were selected for analysis. A process of "web scrapping" was used to obtain the words for each of the 75 works. Tools like Beautiful Soup, Python, Urllib, and Requests were used to parse the HTML of the websites containing the works. This gave us a vast amount of text to clean.
 
